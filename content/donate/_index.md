@@ -6,13 +6,15 @@ layout: single
 ---
 
 ---- 
-The Haiku Project is supported by Haiku, Inc., a not-for-profit corporation classified by the IRS under section 501(c)(3). Donations made within the United States should be tax-deductible. Haiku, Inc. accepts donations electronically via Amazon Payments, Google Wallet, and PayPal. Check or money order is also accepted and can be mailed via the postal system. Please contact a tax professional for the details of deducting such a donation. Donations over $100 (USD) may receive a mailed receipt upon request.
+The [Haiku Project](https://haiku-os.org) is supported by Haiku, Inc., a not-for-profit corporation classified by the IRS under section 501(c)(3). Donations made within the United States should be tax-deductible. Haiku, Inc. accepts donations electronically via Amazon Payments, Google Wallet, and PayPal. Check or money order is also accepted and can be mailed via the postal system. Please contact a tax professional for the details of deducting such a donation. Donations over $100 (USD) may receive a mailed receipt upon request.
 
 With your support, we will be able to continue to provide quality dedicated hosting, promote Haiku at various conferences, and most importantly purchase additional time for Haiku development. Your donations will help to bring Haiku closer to R1: the first production quality release.
 
 ## Online Donations
 
 Creating a monthly recurring donation subscription is a great way to help out Haiku, as any amount certainly helps and it frees you from needing to stop by the donations page each month. Please, [contact us](/contact) if you would like to set up a recurring donation with a different time interval. For example an automatic yearly or bi-annual subscription.
+
+{{< donate_form >}}
 
 ## Miscellaneous Online Donations
 

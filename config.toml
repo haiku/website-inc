@@ -5,26 +5,32 @@ theme = "hugo-smorg"
 copyright = "&copy; 2003-2018 Haiku, Inc. All Rights reserved."
 
 [params]
-fullname = ""
+fullname = " "
 logotype = "<span class='has-text-weight-bold'>Haiku, <span class='has-text-danger'>Inc.</span></span>"
-footer = ""
-subfooter = ""
+footer = " "
+subfooter = " "
 
 [[menu.sectionmenu]]
 	name = "About"
 	url = "about/"
+    weight = 10
 [[menu.sectionmenu]]
 	name = "FAQ"
 	url = "about/faq"
+    weight = 20
 [[menu.sectionmenu]]
 	name = "Trademarks"
 	url = "about/trademarks"
+	weight = 30
 [[menu.sectionmenu]]
 	name = "Documents"
 	url = "documents/"
+	weight = 40
 [[menu.sectionmenu]]
 	name = "Donate"
 	url = "donate/"
+	weight = 50
 [[menu.sectionmenu]]
 	name = "Contact"
 	url = "contact/"
+	weight = 60
