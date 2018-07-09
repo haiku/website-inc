@@ -2,9 +2,12 @@ baseURL = "https://haiku-inc.org/"
 languageCode = "en-us"
 title = "Haiku, Inc."
 theme = "hugo-smorg"
-copyright = "Copyright, 2003-2018 Haiku, Inc. All Rights reserved."
+copyright = "&copy; 2003-2018 Haiku, Inc. All Rights reserved."
 
 [params]
+fullname = ""
+logotype = "<span class='has-text-weight-bold'>Haiku, <span class='has-text-danger'>Inc.</span></span>"
+footer = ""
 subfooter = ""
 
 [[menu.sectionmenu]]
