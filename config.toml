@@ -1,7 +1,11 @@
-baseURL = "http://example.org/"
+baseURL = "https://haiku-inc.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Haiku, Inc."
 theme = "hugo-smorg"
+copyright = "Copyright, 2003-2018 Haiku, Inc. All Rights reserved."
+
+[params]
+subfooter = ""
 
 [[menu.sectionmenu]]
 	name = "About"
