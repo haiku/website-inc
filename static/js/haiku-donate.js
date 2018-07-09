@@ -83,7 +83,7 @@ $(function() {
 	function make_method(m) {
 		var box = $('<div class="provider" style="margin: 16px; padding-left: 25px;"></div>');
 		box.append('<input type="radio" value="'+m.name+
-			'" class="form-providers" name="form-providers id="form-provider-'+m.name+'">&nbsp;</input>');
+			'" class="form-providers" name="form-providers" id="form-provider-'+m.name+'">&nbsp;</input>');
 		//	'" class="form-providers" name="form-providers">&nbsp;'+m.name+'</input>');
 		box.append('<label for="form-provider-'+m.name+'">'+m.name+'</label>');
 		box.append('<br/>');
