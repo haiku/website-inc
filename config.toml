@@ -1,0 +1,23 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "hugo-smorg"
+
+[[menu.sectionmenu]]
+	name = "About"
+	url = "about/"
+[[menu.sectionmenu]]
+	name = "FAQ"
+	url = "about/faq"
+[[menu.sectionmenu]]
+	name = "Trademarks"
+	url = "about/trademarks"
+[[menu.sectionmenu]]
+	name = "Documents"
+	url = "documents/"
+[[menu.sectionmenu]]
+	name = "Donate"
+	url = "donate/"
+[[menu.sectionmenu]]
+	name = "Contact"
+	url = "contact/"
