@@ -16,20 +16,26 @@
 					<br/>
 					<div class="columns">
 						<div class="column">
+							<center>
+							<div style='background-image: url(/images/community.jpg); border-radius: 10px; width: 310px; height: 410px; padding: 20px;'></div>
 							<!-- https://www.pexels.com/photo/eyeglasses-in-front-of-laptop-computer-1181253/ -->
-							<img src="/images/community.jpg" style="border-radius: 10px;">
 							<h3 class="subtitle has-text-primary is-marginless">Supporting Development</h3>
 							<ul>
 							<li><a href="{{ "about/" | absURL}}">Haiku, Inc.'s role<span class="icon">➤</span></a></li>
 							</ul>
+							</center>
 						</div>
 						<div class="column">
-							{{ partial "donation_tracker.html" . }}
+							<center>
 							<!-- https://www.pexels.com/photo/black-and-grey-device-159282/ -->
+							<div style='background-image: url(/images/infrastructure.jpg); border-radius: 10px; width: 310px; height: 410px; padding: 20px; box-shadow: inset 0 0 0 1000px rgba(255,255,255,0.8);'>
+								{{ partial "donation_tracker.html" . }}
+							</div>
 							<h3 class="subtitle has-text-primary is-marginless">Funding Infrastructure</h3>
 							<ul>
 							<li><a href="{{ "documents/donations" | absURL }}">Financial tracking<span class="icon">➤</span></a></li>
 							</ul>
+							</center>
 						</div>
 					</div>
 				</div>
