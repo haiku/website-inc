@@ -1,0 +1,28 @@
+Board Meeting Minutes
+Haiku Inc.
+2010-03-30, Tuesday
+5:21pm (UTC)
+Freenode's IRC network (chat.freenode.net), #haiku-inc-bod
+
+Board Members:
+	Present:
+		Bruno Albuquerque <BGA>
+		Ryan Leavengood	<leavengood>
+		Matthew Madia <mmadia>
+		Urias McCullough <umccullough>
+	Absent:
+		Axel Dörfler <axeld> 
+	Others Present:
+		None
+
+Proceedings:
+	* Meeting called to order at 5:21pm (UTC) by Bruno Albuquerque
+
+	* Acknowledged minutes from 2009-12-05 meeting to be accurate.
+
+	* Authorized Matthew Madia to open a new bank account at Wachovia in NY state, on behalf of Haiku Inc.
+
+	* Meeting adjourned at 5:39PM (UTC) on  March 30, 2010
+	
+	* Minutes submitted by Matthew Madia
+

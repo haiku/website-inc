@@ -1,0 +1,32 @@
+Board Meeting Minutes
+Haiku Inc.
+2011-09-09, Tuesday
+20:30 (UTC)
+Freenode's IRC network (chat.freenode.net), #haiku-inc-bod
+
+Board Members:
+	Present:
+		Axel Dörfler <axeld>
+		Ryan Leavengood	<leavengood>
+		Matthew Madia <mmadia>
+		Urias McCullough <umccullough>
+	Absent:
+		Bruno Albuquerque <BGA>
+	Others Present:
+		Rene Gollent <DeadYak>
+
+Proceedings:
+	* Meeting called to order at 20:30 (UTC) by Axel Dörfler
+
+	* Acknowledged minutes from 2010-03-30 meeting to be accurate.
+
+	* Authorized Matthew Madia to open an account  with Oanda.com for foreign exchange purposes, on behalf of Haiku Inc.
+
+	* Elected Matthew Madia as secretary.
+
+	* Tabled a motion to rotate members.
+
+	* Meeting adjourned at 20:48 (UTC) on September 09, 2011.
+
+	* Minutes submitted by Matthew Madia.
+

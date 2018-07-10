@@ -1,0 +1,48 @@
+Board Meeting Minutes
+Haiku, Inc.
+2016-10-20, Thursday
+08:30 (UTC)
+Freenode's IRC network (chat.freenode.net), #haiku-inc-bod
+
+Board Members:
+	Present:
+		Rene Gollent <DeadYak>
+		Alexander von Gluck IV <kallisti5>
+		Ryan Leavengood	<leavengood>
+		Axel DÃ¶rfer <axeld>
+	Absent:
+		Urias McCullough <umccullough>
+
+	Others Present:
+		Jessica Hamilton <jessicah> 
+
+Proceedings:
+
+  * 08:30 (UTC): Meeting called to order by Alexander von Gluck IV
+
+  * 08:35 (UTC): Acknowledged minutes from 2015-07-01 meeting to be accurate
+
+  * 08:37 (UTC): Reminder about IRS filings, Domain renewals, Financial Statements.
+
+  * 08:40 (UTC): Alex will be given access to the bank accounts to help out on the financial reports
+
+  * 08:44 (UTC): haiku-os.org Expiry Date: 2016-10-29 Alex will follow up with Urias to renew
+
+  * 08:49 (UTC): jessicah was successfully voted onto the board of directors (welcome).
+
+  * 08:50 (UTC): Inc to sponsor a committee to investigate community based BOD election
+
+  * 08:57 (UTC): Support for community based re-elections.  2 year board member seats
+
+  * 09:01 (UTC): People can vote if they have donated > $10 in the last 2 years.
+
+  * 09:02 (UTC): People can vote if they authored commits in last 2 years.
+
+  * 09:08 (UTC): Vote passed to form a committee to detail a roadmap for public elections.
+
+  * 09:10 (UTC): The plan defined by the committee will be voted on to enact.
+
+  * 09:29 (UTC): Meeting adjourned at 09:29 (UTC) on October 20, 2016.
+
+  * Minutes submitted by Alexander von Gluck IV
+

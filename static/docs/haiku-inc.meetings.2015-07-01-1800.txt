@@ -1,0 +1,39 @@
+Board Meeting Minutes
+Haiku, Inc.
+2015-07-01, Wednesday
+18:00 (UTC)
+Freenode's IRC network (chat.freenode.net), #haiku-inc-bod
+
+Board Members:
+	Present:
+		Bruno Albuquerque <BGA>
+		Ryan Leavengood	<leavengood>
+		Urias McCullough <umccullough>
+	Absent:
+		Axel Dörfer <axeld>
+	Others Present:
+		Rene Gollent <DeadYak>
+		Alexander von Gluck IV <kallisti5>
+
+Proceedings:
+  * 18:00 (UTC): Meeting called to order by Bruno Albuquerque.
+
+  * 18:05 (UTC): Acknowledged minutes from 2011-09-09 meeting to be accurate.
+
+  * 18:09 (UTC): The BOD recognizes Matthew Madia (mmadia) stepping down and
+                 appreciates his service to the board.
+
+  * 18:13 (UTC): Elected Alexander von Gluck IV as board member.
+
+  * 18:17 (UTC): Elected Rene Gollent as a board member.
+
+  * 18:18 (UTC): The BOD recognizes Bruno Albuquerque (BGA) stepping down and
+                 appreciates his service to the board.
+
+  * 18:34 (UTC): Elected Rene Gollent as VP.
+
+  * 18:37 (UTC): Elected Alexander von Gluck IV as secretary.
+
+  * 18:50 (UTC): Meeting adjourned at 18:50 (UTC) on July 01, 2015.
+
+  * Minutes submitted by Alexander von Gluck IV

@@ -1,0 +1,35 @@
+Board Meeting Minutes
+Haiku Inc.
+2009-12-05, Saturday
+6:27pm (GMT-0)
+Freenode's IRC network (chat.freenode.net), #haiku-inc-bod
+
+Board Members:
+	Present:
+		Bruno Albuquerque <BGA>
+		Axel Dörfler <axeld> 
+		Ryan Leavengood	<leavengood>
+		Matthew Madia <mmadia42>
+		Urias McCullough <umccullough>
+	Absent:
+		None
+	Others Present:
+		Scott McCreary <scottmc>
+
+Proceedings:
+	* Meeting called to order at 6:27pm (GMT-0) by Matthew Madia
+
+	* Acknowledged minutes from 2009-10-10 meeting to be accurate.
+
+	* Voted officers:
+		President:		Axel Dörfler
+		Vice President:	Bruno Albuquerque
+		Treasurer:		Ryan Leavengood
+	
+	* Authorized Ryan Leavengood to open a new bank account at Chase, on behalf of Haiku Inc.
+
+	* Meeting adjourned at 6:51pm (GMT-0) on December 05, 2009
+	
+	* Minutes submitted by Matthew Madia
+	
+	

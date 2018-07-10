@@ -1,0 +1,38 @@
+Board Meeting Minutes
+Haiku Inc.
+2009-10-10
+2:30 PM EDT
+Freenode's IRC network (chat.freenode.net), #haiku-inc-bod
+
+Board Members:
+	Present:
+		Michael Phipps as <mphipps>
+		Tyler Akidau (formerly Tyler Dauwalder) as <takidau>
+
+	Absent:	
+		Mike Wilber
+
+	Others Present:
+		Ryan Leavengood as <leavengood>
+		Matthew Madia as <mmadia>
+		Scott McCreary as <scottmc>
+		Urias McCullough as <umccullough>
+		
+Proceedings:
+	* Meeting called to order at 2:30 PM EDT by Michael Phipps
+
+	* Attendees stated their names.
+	
+	* Reviewed proposed new Board of Directors:
+		Bruno G. Albuquerque of Anchieta, Belo Horizonte, Brazil
+		Axel Dörfler of Hannover, Germany
+		Ryan Leavengood of Boynton Beach, FL, USA
+		Matthew Madia of Saddle Brook, NJ, USA
+		Urias McCullough of Grass Valley, CA, USA
+
+	* Proposed Board of Directors was voted in by Michael Phipps and Tyler Akidau.
+
+	* Meeting adjourned at 2:38 PM on October 10, 2009
+	
+	* Minutes submitted by Matthew Madia
+
