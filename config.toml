@@ -36,7 +36,13 @@ subfooter = " "
 [[menu.sectionmenu]]
 	name = "Documents"
 	url = "documents/"
+	identifier = "documents"
 	weight = 40
+[[menu.sectionmenu]]
+	name = "Source code licenses"
+	url = "documents/licenses"
+	parent = "documents"
+	weight = 10
 [[menu.sectionmenu]]
 	name = "Donate"
 	url = "donate/"
