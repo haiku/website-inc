@@ -6,12 +6,10 @@ layout: single
 ---
 
 ---- 
-Haiku, Inc.(the "NPO") is a 501(c)(3) non-profit organization dedicated to supporting the [Haiku Project](http://www.haiku-os.org) (the "Project") and the development of [Haiku&reg;](http://www.haiku-os.org/get-haiku) (the "Software").
+Haiku, Inc. (the "NPO") is a 501( c )( 3 ) non-profit organization dedicated to supporting the [Haiku Project](http://www.haiku-os.org) (the "Project") and the development of [Haiku&reg;](http://www.haiku-os.org/get-haiku) (the "Software"). At a minimum, the Project is comprised of those individuals with commit access to the Software's source code repositories.
 
-At a minimum, the Project is comprised of those with commit access to the Software's source code repositories. Haiku was inspired by BeOS, which was developed by Be Inc. and currently is intellectual property of [ACCESS Co.](http://www.access-company.com/).
-
-While x86 and x86_64 are current primary focus, additional platforms (arm, ppc, m68k, mips) are in various stages of development.
-
+Haiku was inspired by BeOS, which was developed by [Be Inc.](https://en.wikipedia.org/wiki/Be_Inc.) and currently is intellectual property of [ACCESS Co.](http://www.access-company.com/).
+While the x86 and x86_64 architectures are current primary focus of the Software, additional platforms (arm, ppc, m68k, mips) are in various stages of development.
 
 ## Who is Haiku, Inc.?
 
@@ -19,14 +17,14 @@ Several trusted long-term contributors are currently managing the tasks for Haik
 
 ## Current Board Members
 
-Haiku, Inc. currently has 4 titled positions made up of board members.
+Haiku, Inc. currently has 4 titled positions filled by the pool of board members:
 
 * **President:** Axel Dörfler
 * **Vice President:** Rene Gollent
 * **Treasurer:** Ryan Leavengood
 * **Secretary:** Alexander von Gluck IV
 
-The board of directors is currently made up of 6 individuals from the community.
+The board of directors is currently made up of 6 board-elected individuals from the community:
 
 * **Board of Directors:**
   * Axel Dörfler (axeld)
