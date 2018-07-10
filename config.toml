@@ -13,15 +13,26 @@ subfooter = " "
 [[menu.sectionmenu]]
 	name = "About"
 	url = "about/"
-    weight = 10
+	weight = 10
 [[menu.sectionmenu]]
 	name = "FAQ"
 	url = "about/faq"
-    weight = 20
+	weight = 20
 [[menu.sectionmenu]]
 	name = "Trademarks"
-	url = "about/trademarks"
+	url = "trademarks/"
 	weight = 30
+	identifier = "trademarks"
+[[menu.sectionmenu]]
+	name = "Usage Requirements"
+	url = "trademarks/usage_requirements"
+	weight = 10
+	parent = "trademarks"
+[[menu.sectionmenu]]
+	name = "Allowed Usage"
+	url = "trademarks/allowed_usage"
+	weight = 20
+	parent = "trademarks"
 [[menu.sectionmenu]]
 	name = "Documents"
 	url = "documents/"
