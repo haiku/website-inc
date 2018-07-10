@@ -20,15 +20,15 @@
 							<img src="/images/community.jpg" style="border-radius: 10px;">
 							<h3 class="subtitle has-text-primary is-marginless">Supporting Development</h3>
 							<ul>
-							<li><a href="{{ "about/role" | absURL}}">Haiku, Inc.'s role<span class="icon">➤</span></a></li>
+							<li><a href="{{ "about/" | absURL}}">Haiku, Inc.'s role<span class="icon">➤</span></a></li>
 							</ul>
 						</div>
 						<div class="column">
+							{{ partial "donation_tracker.html" . }}
 							<!-- https://www.pexels.com/photo/black-and-grey-device-159282/ -->
-							<img src="/images/infrastructure.jpg" style="border-radius: 10px;">
 							<h3 class="subtitle has-text-primary is-marginless">Funding Infrastructure</h3>
 							<ul>
-							<li><a href="{{ "donation/progress" | absURL }}">Financial tracking<span class="icon">➤</span></a></li>
+							<li><a href="{{ "documents/donations" | absURL }}">Financial tracking<span class="icon">➤</span></a></li>
 							</ul>
 						</div>
 					</div>

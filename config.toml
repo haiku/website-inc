@@ -44,6 +44,11 @@ subfooter = " "
 	parent = "documents"
 	weight = 10
 [[menu.sectionmenu]]
+	name = "Donation tracking"
+	url = "documents/donations"
+	parent = "documents"
+	weight = 20
+[[menu.sectionmenu]]
 	name = "Donate"
 	url = "donate/"
 	weight = 50
