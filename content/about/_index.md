@@ -6,7 +6,7 @@ layout: single
 ---
 
 ---- 
-Haiku, Inc. (the "NPO") is a 501( c )( 3 ) non-profit organization dedicated to supporting the [Haiku Project](http://www.haiku-os.org) (the "Project") and the development of [Haiku&reg;](http://www.haiku-os.org/get-haiku) (the "Software"). At a minimum, the Project is comprised of those individuals with commit access to the Software's source code repositories.
+Haiku, Inc. (the "NPO") is a 501&#40;c&#41;&#40;3&#41; non-profit organization dedicated to supporting the [Haiku Project](http://www.haiku-os.org) (the "Project") and the development of [Haiku&reg;](http://www.haiku-os.org/get-haiku) (the "Software"). At a minimum, the Project is comprised of those individuals with commit access to the Software's source code repositories.
 
 Haiku was inspired by BeOS, which was developed by [Be Inc.](https://en.wikipedia.org/wiki/Be_Inc.) and currently is intellectual property of [ACCESS Co.](http://www.access-company.com/).
 While the x86 and x86_64 architectures are current primary focus of the Software, additional platforms (arm, ppc, m68k, mips) are in various stages of development.
