@@ -81,4 +81,4 @@ Haiku, Inc. is a not-for-profit corporation classified by the IRS under section 
 Donations over $100 (USD) may receive a mailed receipt upon request.
 
 * Tax ID No. (EIN): 20-0105056
-* Final letter of recognition of exempt status from IRS
+* [Final letter of recognition of exempt status from IRS](/docs/haiku-inc_irs_final-letter-of-determination.pdf)
