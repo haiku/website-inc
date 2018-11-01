@@ -34,6 +34,11 @@ subfooter = " "
 	weight = 20
 	parent = "trademarks"
 [[menu.sectionmenu]]
+	name = "Logo Design"
+	url = "trademarks/logo_design"
+	weight = 30
+	parent = "trademarks"
+[[menu.sectionmenu]]
 	name = "Documents"
 	url = "documents/"
 	identifier = "documents"

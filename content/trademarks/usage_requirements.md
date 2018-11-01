@@ -1,3 +1,12 @@
+---
+title: "Allowed Trademark Usage"
+date: 2018-07-09T13:13:41-05:00
+draft: false
+layout: single
+---
+
+---- 
+
 # Usage Requirements
 The following requirements apply to all uses of the HAIKU Marks. Each specific usage case of the HAIKU Marks may have additional requirements to be fulfilled.
 
@@ -32,7 +41,7 @@ As an analogy, acceptable use would be comparable to movie content that is "Safe
 By using the HAIKU Marks, you agree to indemnify and hold harmless Haiku, Inc. and its members against any and all claims by third parties arising from the use of these trademarks.
 
 ## Graphical Modifications
-There are two different policies regarding how the graphical logos can and cannot be modified. In short, the HAIKU logo® should generally be viewed as read-only; however, the HAIKU Leaf and HAIKU Background Leaf allow more modifications and alterations. See Incorrect Logo Usage for visual examples.
+There are two different policies regarding how the graphical logos can and cannot be modified. In short, the HAIKU logo® should generally be viewed as read-only; however, the HAIKU Leaf and HAIKU Background Leaf allow more modifications and alterations. See [Incorrect Logo Usage](/trademarks/logo_design#incorrect-logo-usage) for visual examples.
 
 ## HAIKU logo
 
