@@ -37,8 +37,8 @@ $(function() {
 			"url":"{occuring}{amount}&currency_code={currency}&item_name={itemname}&no_shipping=1&no_note=1",
 			"prop_map":{
 				"occuring":{
-					"One time":"https://www.paypal.com/us/cgi-bin/webscr?cmd=_donations&business=donations@haiku-os.org&amount=",
-					"Monthly":"https://www.paypal.com/subscriptions/business=donations@haiku-os.org&p3=1&t3=M&src=1&sra=1&a3="
+					"One time":"https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=donations@haiku-os.org&amount=",
+					"Monthly":"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick-subscriptions&business=donations@haiku-os.org&src=1&sra=1&p3=1&t3=M&a3="
 				},
 				"itemname":function (a) {
 					var oc = $('#form-occuring').val();
