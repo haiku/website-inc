@@ -16,10 +16,9 @@ layout: single
 		<tr>
 			<td>Message:</td><td><textarea name="message" rows=25 style="width: 90%"/></textarea>
 		</tr>
+		<tr>
+			<td colspan=2><button type="submit" style="float: right">Send</button></td>
+		</tr>
 	</table>
-  </p>
-  <div data-netlify-recaptcha="true"></div>
-  <p>
-    <button type=”submit”>Send</button>
   </p>
 </form>
