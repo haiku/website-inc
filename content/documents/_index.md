@@ -5,7 +5,7 @@ draft: false
 layout: single
 ---
 
----- 
+----
 
 Haiku, Inc. makes it a priority to publish as much information publically as possible. This is an archive of public documents which are specific to Haiku, Inc.
 
@@ -35,6 +35,7 @@ Haiku, Inc. makes it a priority to publish as much information publically as pos
 * [2010 Financial Report](/docs/haiku_inc-financial-report-2010.pdf)
 * **TODO 2011-2016**
 * [2017 Financial Report](/docs/haiku_inc-financial-report-2017.pdf)
+* [2018 Financial Report](/docs/haiku_inc-financial-report-2018.pdf)
 
 **Budgets**
 
