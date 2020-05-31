@@ -36,6 +36,7 @@ Haiku, Inc. makes it a priority to publish as much information publically as pos
 * **TODO 2011-2016**
 * [2017 Financial Report](/docs/haiku_inc-financial-report-2017.pdf)
 * [2018 Financial Report](/docs/haiku_inc-financial-report-2018.pdf)
+* [2019 Financial Report](/docs/haiku_inc-financial-report-2019.pdf)
 
 **Budgets**
 
