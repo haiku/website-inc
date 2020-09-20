@@ -31,7 +31,6 @@ The board of directors is currently made up of 6 board-elected individuals from 
   * Rene Gollent (DeadYak)
   * Jessica Hamilton (jessicah)
   * Ryan Leavengood (leavengood)
-  * Urias McCullough (umccullough)
   * Alexander von Gluck IV (kallisti5)
 
 All board members work for Haiku, Inc. in a volunteer role and do not receive compensation.

@@ -54,3 +54,4 @@ Minutes are flagged <span style="color: red;"><i>draft</i></span> until confirme
 * 2011-09-09, 20:30 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2011-09-10-2030.txt))
 * 2015-07-01, 18:00 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2015-07-01-1800.txt))
 * 2016-10-20, 18:00 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2016-10-20-0830.txt)) <span style="color: red;"><i>draft</i></span>
+* 2020-09-14, 17:00 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2020-09-14-1900.txt)) <span style="color: red;"><i>draft</i></span>

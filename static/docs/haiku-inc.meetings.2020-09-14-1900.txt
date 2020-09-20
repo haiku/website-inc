@@ -1,0 +1,42 @@
+Board Meeting Minutes
+Haiku, Inc.
+2020-09-14, Saturday
+17:00 (UTC)
+Email, all BOD individuals
+
+Board Members:
+	Active in email thread:
+		Urias McCullough <umccullough>
+		Alexander von Gluck IV <kallisti5>
+		Axel DÃ¶rfer <axeld>
+	Active in other Inc. email threads of the day:
+		Ryan Leavengood	<leavengood>
+		Rene Gollent <DeadYak>
+	Absent:
+		Jessica Hamilton <jessicah> 
+
+Proceedings:
+
+  * 17:00 (UTC): Urias McCullough notifies Haiku, Inc. BOD he will be stepping down.
+                 Offers details on Haiku, Inc. items under his possession.
+                   * Old projector (1024x768)
+                   * 4 Mac Mini's (former builders, old with Urias-added upgrades)
+                   * Old BeOS software donated
+                   * Haiku Table runner for conferences
+                   * Couple old Haiku t-shirts.
+
+  * 17:12 (UTC): Alexander von Gluck acknowledges, offers to take:
+                   * Haiku Table runner for conferences
+                   * Old BeOS software donated
+                   * Couple old Haiku t-shirts
+                 Mentions other items likely aren't of much use to BOD anymore.
+                 Mentions Mac Mini's can be donated, kept, sold, etc.
+                 Mentions Urias isn't filling a named BOD seat.
+            
+  * 18:36 (UTC): Axel DÃ¶rfer offers acknowledgement 
+
+  * No further emails within thread.
+  * Previous draft meeting minutes remain unconfirmed.
+
+  * Minutes submitted by Alexander von Gluck IV
+
