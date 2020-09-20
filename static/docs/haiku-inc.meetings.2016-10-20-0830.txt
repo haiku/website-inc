@@ -9,7 +9,7 @@ Board Members:
 		Rene Gollent <DeadYak>
 		Alexander von Gluck IV <kallisti5>
 		Ryan Leavengood	<leavengood>
-		Axel DÃ¶rfer <axeld>
+		Axel Dörfer <axeld>
 	Absent:
 		Urias McCullough <umccullough>
 
