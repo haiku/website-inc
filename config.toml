@@ -6,7 +6,7 @@ copyright = "&copy; 2003-2020 Haiku, Inc. All Rights reserved."
 
 [params]
 fullname = " "
-logotype = "<span class='has-text-weight-bold'>Haiku, <span class='has-text-danger'>Inc.</span></span>"
+logotype = "<img src="/images/haiku_inc_logo" alt="Haiku Inc. Logo"> <span class='has-text-weight-bold'>Haiku, <span class='has-text-danger'>Inc.</span></span>"
 footer = " "
 subfooter = " "
 
