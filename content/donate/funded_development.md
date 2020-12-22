@@ -150,4 +150,40 @@ The year 2010 marked the year in which Haiku, Inc. returned to financing establi
 - Hours: 160
 - Related articles: [Contract announcement](https://www.haiku-os.org/news/2010-08-12_stephan_back_wheel_website_haiku_inc "Contract announcement")
 - Summary:
-> From September to October 2010 I worked on fixing bugs in the Haiku app_server and Media Kit. In general, the playback capabilities and media file format compatibility has been greatly improved to be mostly on par with FFmpeg, especially for such important file formats as AVI, MP4 and MKV. Support for the Xiph codecs has been improved and is offered even for encoding. The MediaPlayer interface received a complete overhaul and many new features like full-screen playback controls, media winding and limited support for video subtiles.From September to October 2010 I worked on fixing bugs in the Haiku app_server and Media Kit. In general, the playback capabilities and media file format compatibility has been greatly improved to be mostly on par with FFmpeg, especially for such important file formats as AVI, MP4 and MKV. Support for the Xiph codecs has been improved and is offered even for encoding. The MediaPlayer interface received a complete overhaul and many new features like full-screen playback controls, media winding and limited support for video subtiles.
+> From September to October 2010 I worked on fixing bugs in the Haiku app_server and Media Kit. In general, the playback capabilities and media file format compatibility has been greatly improved to be mostly on par with FFmpeg, especially for such important file formats as AVI, MP4 and MKV. Support for the Xiph codecs has been improved and is offered even for encoding. The MediaPlayer interface received a complete overhaul and many new features like full-screen playback controls, media winding and limited support for video subtiles.From September to October 2010 I worked on fixing bugs in the Haiku app_server and Media Kit. In general, the playback capabilities and media file format compatibility has been greatly improved to be mostly on par with FFmpeg, especially for such important file formats as AVI, MP4 and MKV. Support for the Xiph codecs has been improved and is offered even for encoding. The MediaPlayer interface received a complete overhaul and many new features like full-screen playback controls, media winding and limited support for video subtitles.
+
+## 2009
+### Haiku Code Drive (HCD)
+- Contractors: Ankur Sethi (general_maximus), Tom Fairfield (antirush, withdrawed from HCD), Raghu Nagireddy (raghuram87)
+- Cost: $2500 per student per completed project
+- Related articles:
+	- [Overview](https://www.haiku-os.org/community/hcd/2009/)
+	- [Announcement](https://www.haiku-os.org/news/2009-05-15_its_official_haiku_code_drive_2009/)
+	- [Network Services Kit Introduction](https://www.haiku-os.org/blog/antirush/2009-05-16_network_services_kit_introduction/)
+	- [Search and Indexing Tool](https://www.haiku-os.org/blog/general_maximus/2009-05-17_full_text_searching_and_indexing/)
+	- [Update on HCD](https://www.haiku-os.org/news/2009-05-26_important_update_haiku_code_drive_2009/)
+	- [Update on Web Services Kit](https://www.haiku-os.org/blog/antirush/2009-05-28_update_web_services_kit_and_haiku_code_drive/)
+	- [BFS over FUSE](https://www.haiku-os.org/blog/raghuram87/2009-05-28_implement_bfs_over_fuse/)
+	- [First Month Progress Update](https://www.haiku-os.org/news/2009-06-26_summer_code_progress_within_first_month/)
+	- [Full Text Indexing Status Update](https://www.haiku-os.org/blog/general_maximus/2009-06-30_full_text_indexing_status_update/)
+	- [Full Text Indexing Search UI](https://www.haiku-os.org/blog/general_maximus/2009-07-31_full_text_indexing_search_ui/)
+	- [Final Reports](https://www.haiku-os.org/news/2009-09-20_wrapup_reports_2009_google_summer_code_haiku_code_drive/)
+Based on lessons learnt from 2008's HCD, the 2009 HCD implemented a new selection process. 
+The 2009 HCD consisted of three students aiming to complete three projects. Initially there were two students, but one student withdrew from the HCD and another came in to take his place. 
+Both students managed to make progress on their respective projects. 
+
+## 2008
+### Haiku Code Drive (HCD)
+- Contractors: Salvatore Benedetto (emitrax), Jovan Ivankovic, Yin Qiu, JiSheng Zhang
+- Cost: $2500 per student per completed project
+- Related articles:
+	- [Overview](https://www.haiku-os.org/community/hcd/2008/)
+	- [Call for donations](https://www.haiku-os.org/news/2008-04-28_call_to_arms_haiku_code_drive_2008/)
+	- [Poll Fundraiser Update](https://www.haiku-os.org/news/2008-05-22_haiku_code_drive_2008_poll_fundraiser_update/)
+	- [Contractor Announcement](https://www.haiku-os.org/news/2008-05-30_haiku_code_drive_2008_to_sponsor_four_students/)
+	- [HCD Status Report - emitrax (1)](https://www.haiku-os.org/blog/emitrax/2008-07-30_file_system_benchmark_suite_for_haiku/)
+	- [HCD Status Report - emitrax (2)](https://www.haiku-os.org/blog/emitrax/2008-08-23_hcd_status_report/)
+	- [Final report](https://www.haiku-os.org/news/2008-10-07_google_summer_of_code_2008_and_haiku_code_drive_harvest/)
+In 2008, Haiku Code Drive took place as a result of Google not accepting as many students as initially wanted by the Haiku community. Hence, the Haiku Code Drive was conceieved and took place over two years.
+The 2008 HCD consisted of four students aiming to complete four different projects, however a few students didn't manage to complete their projects due to various reasons.
+As such, the $2500 stipend for these students was saved for next year's HCD.
