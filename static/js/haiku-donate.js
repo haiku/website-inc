@@ -6,30 +6,6 @@
 
 $(function() {
 	var methods = {
-		"Amazon Payments":{
-			"name":"Amazon Payments",
-			"currencies":["USD"],
-			"occuring":["One time"],
-			"url":"https://authorize.payments.amazon.com/pba/paypipeline",
-			"form":{"inputs":
-				{
-					'immediateReturn':"1",
-					'collectShippingAddress':"0",
-					'signature':"a5qs+FqRrNpjM2HOpxOHZbXJ9N6ueB/RWYhdb4D18v8=",
-					'isDonationWidget':"1",
-					'signatureVersion':"2",
-					'signatureMethod':"HmacSHA256",
-					'description':"This is a single donation to Haiku Inc.,"
-						+ " with the purpose of supporting the development of Haiku.",
-					'amazonPaymentsAccountId':"LXAYHLMCKMCLBF6VZCAFAP357P25KUHDC6S1IS",
-					'accessKey':"11SEM03K88SD016FS1G2",
-					'cobrandingStyle':"logo",
-					'processImmediate':"1",
-					'amount':'{amount}'
-				},
-			"method":"POST"
-			}
-		},
 		"PayPal":{
 			"name":"PayPal",
 			"currencies":["USD","EUR"],
