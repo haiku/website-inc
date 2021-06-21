@@ -41,7 +41,7 @@ When you purchase through amazon.com, a small percentage of your purchase is don
 
 [Goodsearch](https://goodsearch.org) allows users to generate donations to Haiku,&nbsp;Inc. simply by using their search engine.
 
-<a href="http://www.goodsearch.com/?charityid=949749" target="_top"><img
+<a href="https://www.goodsearch.com/?charityid=949749" target="_top"><img
 		src="/images/goodsearch_200x40.jpg"
 		width="200" height="40" alt="Goodsearch: You Search...We Give!" border="0"></a>
 
