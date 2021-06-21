@@ -24,9 +24,9 @@ We understand that no single donation processor will meet every person's wants o
 
 Flattr is a way for you to set a monthly donation budget and have it automatically divided amongst the various people you choose to "Flattr".
 
-<a href="http://flattr.com/thing/1335767/Haiku-Inc-"
+<a href="https://flattr.com/thing/1335767/Haiku-Inc-"
 	target="_blank"><img
-		src="http://api.flattr.com/button/flattr-badge-large.png"
+		src="https://api.flattr.com/button/flattr-badge-large.png"
 		alt="Flattr this"
 		title="Flattr this" border="0" />
 </a>
