@@ -17,7 +17,7 @@ With respect to graphical modifications, the HAIKU logo should generally be view
 
 # Glyphs
 
-The HAIKU logo currently uses customized shapes based on the Futura Medium font, also called just regular Futura. The glyphs are slightly modified (mostly to align with pixels boundaries). While [Futura LT Medium.ttf](http://www.fontyukle.com/en/Futura+LT+Medium.ttf) and [Futura2-Normal.ttf](http://www.fontyukle.com/en/Futura2-Normal.ttf) are close approximations, they should not be used for re-creating the wordmark; instead the actual logos should be used.
+The HAIKU logo currently uses customized shapes based on the Futura Medium font, also called just regular Futura. The glyphs are slightly modified (mostly to align with pixels boundaries). While [Futura LT Medium.ttf](https://www.fontyukle.com/en/Futura+LT+Medium.ttf) and [Futura2-Normal.ttf](https://www.fontyukle.com/en/Futura2-Normal.ttf) are close approximations, they should not be used for re-creating the wordmark; instead the actual logos should be used.
 
 # Colors
 
