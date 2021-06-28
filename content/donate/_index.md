@@ -30,6 +30,7 @@ We understand that no single donation processor will meet every person's wants o
         src="https://liberapay.com/assets/widgets/donate.svg"
         alt="Donate using Liberapay"
         title="Donate using Liberapay" border="0" />
+</a>
 
 ### Flattr
 
