@@ -5,7 +5,7 @@ draft: false
 layout: single
 ---
 
----- 
+----
 The [Haiku Project](https://haiku-os.org) is supported by Haiku,&nbsp;Inc., a not-for-profit corporation classified by the IRS under section 501&#40;c&#41;&#40;3&#41;. Donations made within the United States should be tax-deductible. Haiku,&nbsp;Inc. accepts donations electronically via Amazon Payments, Google Wallet, and PayPal. Check or money order is also accepted and can be mailed via the postal system. Please contact a tax professional for the details of deducting such a donation. Donations over $100 (USD) may receive a mailed receipt upon request.
 
 With your support, we will be able to continue to provide quality dedicated hosting, promote Haiku at various conferences, and most importantly purchase additional time for Haiku development. Your donations will help to bring Haiku closer to R1: the first production quality release.
@@ -24,20 +24,18 @@ We understand that no single donation processor will meet every person's wants o
 
 [Liberapay](https://liberapay.com/about) allows you to donate money to Haiku,&nbsp;Inc. recurrently and anonymously. It is governed by a non-profit organization registered in France.
 
-<script src="https://liberapay.com/haiku.inc/widgets/button.js"></script>
-<a href="https://liberapay.com/haiku.inc/donate"
-    target="_blank"><img
-        src="https://liberapay.com/assets/widgets/donate.svg"
+<a href="https://liberapay.com/haiku.inc/donate" target="_blank">
+    <img src="https://liberapay.com/assets/widgets/donate.svg"
         alt="Donate using Liberapay"
         title="Donate using Liberapay" border="0" />
+</a>
 
 ### Flattr
 
 Another alternative for recurring donations is [Flattr](https://flattr.com/about), which allows you to set a monthly donation budget for multiple different organizations of your choice, including Haiku,&nbsp;Inc., and evenly distribute it.
 
-<a href="https://flattr.com/thing/1335767/Haiku-Inc-"
-	target="_blank"><img
-		src="https://api.flattr.com/button/flattr-badge-large.png"
+<a href="https://flattr.com/thing/1335767/Haiku-Inc-" target="_blank">
+    <img src="https://api.flattr.com/button/flattr-badge-large.png"
 		alt="Flattr this"
 		title="Flattr this" border="0" />
 </a>
