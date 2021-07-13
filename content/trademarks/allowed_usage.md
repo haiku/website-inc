@@ -52,7 +52,7 @@ Provided that the website clearly states
 * It is a community operated site.
 * The official project homepage is haiku-os.org - as an example, have a footer of:
 
-> Haiku(R) and the HAIKU logo(R) are registered trademarks of [Haiku, Inc.](http://haiku-inc.org) and are developed by the [Haiku Project](http://haiku-os.org)."
+> Haiku(R) and the HAIKU logo(R) are registered trademarks of [Haiku, Inc.](https://haiku-inc.org) and are developed by the [Haiku Project](https://haiku-os.org)."
 
 Note: using the HAIKU Marks as a 3rd party logo is not allowed
 

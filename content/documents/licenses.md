@@ -14,7 +14,7 @@ are collected inside a few folders:
 * /boot/system/data/licenses
 * /boot/home/config/data/licenses
 
-The licenses in /boot/system/data are viewable online in [Haiku's source code repository](http://cgit.haiku-os.org/haiku/plain/data/system/data/licenses)
+The licenses in /boot/system/data are viewable online in [Haiku's source code repository](https://cgit.haiku-os.org/haiku/plain/data/system/data/licenses)
 
 ## Graphic Licenses
 

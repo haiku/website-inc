@@ -7,16 +7,16 @@ layout: single
 
 ---- 
 
-Below are some common questions. Feel free to [contact us](/contact), preferably on the [public mailing list](http://www.freelists.org/list/haiku-inc).
+Below are some common questions. Feel free to [contact us](/contact), preferably on the [public mailing list](https://www.freelists.org/list/haiku-inc).
 
 
 ### Where can I get Haiku&reg;?
 
-The Haiku Project provides downloads for current official releases of Haiku® on their [Get Haiku!](http://www.haiku-os.org/get-haiku) page.
+The Haiku Project provides downloads for current official releases of Haiku® on their [Get Haiku!](https://www.haiku-os.org/get-haiku) page.
 
 ### Where is Haiku swag to buy?
 
-Currently, our offerings are limited to CafePress ([US](http://www.cafepress.com/haiku_os), [UK](http://www.cafepress.co.uk/haiku_os))
+Currently, our offerings are limited to CafePress ([US](https://www.cafepress.com/haiku_os), [UK](https://www.cafepress.co.uk/haiku_os))
 
 ### How do I get my logo on the donors page?
 

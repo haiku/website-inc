@@ -48,10 +48,10 @@ Haiku, Inc. makes it a priority to publish as much information publically as pos
 
 Minutes are flagged <span style="color: red;"><i>draft</i></span> until confirmed accurate by the next meeting.
 
-* 2009-10-10, 18:00 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2009-10-10-1800.txt))
-* 2009-12-05, 19:30 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2009-12-05-1930.txt))
-* 2010-03-30, 05:30 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2010-03-30-0530.txt))
-* 2011-09-09, 20:30 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2011-09-10-2030.txt))
-* 2015-07-01, 18:00 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2015-07-01-1800.txt))
-* 2016-10-20, 18:00 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2016-10-20-0830.txt)) <span style="color: red;"><i>draft</i></span>
-* 2020-09-14, 17:00 UTC ([Text](http://haiku-inc.org/docs/haiku-inc.meetings.2020-09-14-1900.txt)) <span style="color: red;"><i>draft</i></span>
+* 2009-10-10, 18:00 UTC ([Text](https://haiku-inc.org/docs/haiku-inc.meetings.2009-10-10-1800.txt))
+* 2009-12-05, 19:30 UTC ([Text](https://haiku-inc.org/docs/haiku-inc.meetings.2009-12-05-1930.txt))
+* 2010-03-30, 05:30 UTC ([Text](https://haiku-inc.org/docs/haiku-inc.meetings.2010-03-30-0530.txt))
+* 2011-09-09, 20:30 UTC ([Text](https://haiku-inc.org/docs/haiku-inc.meetings.2011-09-10-2030.txt))
+* 2015-07-01, 18:00 UTC ([Text](https://haiku-inc.org/docs/haiku-inc.meetings.2015-07-01-1800.txt))
+* 2016-10-20, 18:00 UTC ([Text](https://haiku-inc.org/docs/haiku-inc.meetings.2016-10-20-0830.txt)) <span style="color: red;"><i>draft</i></span>
+* 2020-09-14, 17:00 UTC ([Text](https://haiku-inc.org/docs/haiku-inc.meetings.2020-09-14-1900.txt)) <span style="color: red;"><i>draft</i></span>
