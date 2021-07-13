@@ -11,7 +11,7 @@ Haiku, Inc. makes it a priority to publish as much information publically as pos
 
 ## Legal Documents
 
-* Certificate of Incorporation of Haiku, Inc. (page [1](/docs/haiku-inc_NY-DOS-Certificate-of-Incorporation-p1-of-3.jpg), [2](/docs/haiku-inc_NY-DOS-Certificate-of-Incorporation-p2-of-3.jpg), [3](/docs/haiku-inc_NY-DOS-Certificate-of-Incorporation-p3-of-3.jpg))
+* [Certificate of Incorporation of Haiku, Inc.](/docs/haiku-inc_NY-DOS-Certificate-of-Incorporation.pdf) (high-res page [1](/docs/haiku-inc_NY-DOS-Certificate-of-Incorporation-p1-of-3.jpg), [2](/docs/haiku-inc_NY-DOS-Certificate-of-Incorporation-p2-of-3.jpg), [3](/docs/haiku-inc_NY-DOS-Certificate-of-Incorporation-p3-of-3.jpg))
 * [Incorporation Filing Receipt of Haiku, Inc.](/docs/haiku-inc_NY-DOS-incorporation_receipt.jpg)
 * IRS [Initial letter of recognition of exempt status](/docs/haiku-inc_irs-recognition-of-exemption.pdf) (high-res page [1](/docs/haiku-inc_irs-recognition-of-exemption-pg1-of-5.jpg), [2](/docs/haiku-inc_irs-recognition-of-exemption-pg2-of-5.jpg), [3](/docs/haiku-inc_irs-recognition-of-exemption-pg3-of-5.jpg), [4](/docs/haiku-inc_irs-recognition-of-exemption-pg4-of-5.jpg), [5](/docs/haiku-inc_irs-recognition-of-exemption-pg5-of-5.jpg))
 * IRS [Final letter of recognition of exempt status](/docs/haiku-inc_irs_final-letter-of-determination.pdf)
@@ -22,7 +22,7 @@ Haiku, Inc. makes it a priority to publish as much information publically as pos
 
 **IRS 990-N Filings**
 
-* [Yearly IRS 990-N e-Postcard Filings](https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=4865629&ein=200105056)
+* [Yearly IRS 990-N e-Postcard Filings](https://apps.irs.gov/app/eos/detailsPage?ein=200105056&name=HAIKU%20INC&city=Boynton%20beach&state=FL&countryAbbr=US&type=ePostSearch)
 
 **Financial Reports**
 
