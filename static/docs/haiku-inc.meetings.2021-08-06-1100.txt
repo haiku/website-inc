@@ -1,0 +1,45 @@
+Board Meeting Minutes
+Haiku, Inc.
+2021-08-06, Friday
+11:00 (UTC)
+Email, all BOD individuals
+
+Location: Google Meet
+
+Board Members:
+
+Present:
+  * Alexander von Gluck IV
+  * Ryan Leavengood
+  * Jessica Hamilton
+
+Absent:
+  * Axel Dorfer
+  * Rene Gollent
+
+Topics:
+  * Review outstanding draft meeting notes
+  * Full time vs part time employees
+  * Hiring Augustin Cavalier
+  * Hiring agreements for basic employees
+  * Offer letter to Augustin Cavalier
+  * Haiku bylaws?
+
+Proceedings:
+
+  * 6:00am CDT - Meeting called to order
+  * 6:05am CDT - Quorum met
+  * 6:08am CDT - All former draft meeting minutes (2016,2020,2021) approved by BoD
+  * 6:10am CDT - Hiring Augustin Cavalier. General salary range Agreed. 2 weeks vacation. Passed unanimously
+  * 6:12am CDT - Hourly contract initially, with optional intent for full hire.
+  * 6:20am CDT - Ryan to draft initial 6-month contract offering for Augustin and distribute to
+                 BoD via email for review / comment / email approval
+  * 6:25am CDT - Ryan to work on a simple, temporary set of Haiku, Inc. bylaws ensuring clear
+                 board modifications of default rules of incorporation in the state of NY. Approved
+  * 6:30am CDT - Status of liquading bitcoins? Ryan working with Coinbase to convert our old Coinbase
+                 account to a not-for-profit account. (it has always been a not-for-profit account,
+                 however it pre-dated Coinbase's "official" designation for Tax purposes)
+  * 6:40am CDT - Github donation processor? No pushback to setting it up.
+  * 6:45am CDT - Meeting adjourned
+
+  * Minutes submitted by Alexander von Gluck IV
