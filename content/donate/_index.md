@@ -34,7 +34,7 @@ We understand that no single donation processor will meet every person's wants o
 
 Another alternative for recurring donations is [Flattr](https://flattr.com/about), which allows you to set a monthly donation budget for multiple different organizations of your choice, including Haiku,&nbsp;Inc., and evenly distribute it.
 
-<a href="https://flattr.com/thing/1335767/Haiku-Inc-" target="_blank">
+<a href="https://flattr.com/@haiku" target="_blank">
     <img src="https://api.flattr.com/button/flattr-badge-large.png"
 		alt="Flattr this"
 		title="Flattr this" border="0" />
