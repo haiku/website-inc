@@ -6,7 +6,7 @@ layout: single
 ---
 
 ----
-The [Haiku Project](https://haiku-os.org) is supported by Haiku,&nbsp;Inc., a not-for-profit corporation classified by the IRS under section 501&#40;c&#41;&#40;3&#41;. Donations made within the United States should be tax-deductible. Haiku,&nbsp;Inc. accepts direct donations electronically via Google Wallet and PayPal. Check or money order is also accepted and can be mailed via the postal system. Please contact a tax professional for the details of deducting such a donation. Donations over $100 (USD) may receive a mailed receipt upon request.
+The [Haiku Project](https://haiku-os.org) is supported by Haiku,&nbsp;Inc., a not-for-profit corporation classified by the IRS under section 501&#40;c&#41;&#40;3&#41;. Donations made within the United States should be tax-deductible. Haiku,&nbsp;Inc. accepts direct donations electronically via Google Pay and PayPal. Check or money order is also accepted and can be mailed via the postal system. Please contact a tax professional for the details of deducting such a donation. Donations over $100 (USD) may receive a mailed receipt upon request.
 
 With your support, we will be able to continue to provide quality dedicated hosting, promote Haiku at various conferences, and most importantly purchase additional time for Haiku development. Your donations will help to bring Haiku closer to R1: the first production quality release.
 
