@@ -58,6 +58,8 @@ To start using these two programs users must have an account with Goodshop and [
 
 ### Give with Bing
 [Bing](https://bing.com), similar to Goodsearch, also has a donations program simply by searching with them called Give with Bing. Powered by the Microsoft Rewards program, it allows users to generate points which are then converted into donations which are donated to Haiku, Inc. at the end of each month. Users need a Microsoft account to be able to participate in this program and need to be signed up for Microsoft Rewards and Give with Bing. [More information about the program is available here.](https://www.microsoft.com/en-us/rewards/give-mode-overview)
+Please ensure you select the correct "Haiku" when selecting a non-profit to donate to:
+<img src="/images/give-with-bing-haiku.png">
 
 ### Cryptocurrency
 
