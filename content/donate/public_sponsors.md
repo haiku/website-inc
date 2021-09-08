@@ -1,4 +1,7 @@
-# Haiku, Inc.'s Public Sponsors
+---
+title: Haiku, Inc.'s Public Sponsors
+---
+
 Since the year 2003, the Haiku Project has been supported by Haiku, Inc. The achievements and support provided to the Haiku Project, are made possible through the tremendous generosity of our financial contributors. Haiku, Inc. is deeply appreciative to the following donors, who have made significantly large financial contributions in recent years. Thank you for these gifts.
 
 See the FAQ and for more information on the different ways in which financial donors are recognized by Haiku, Inc. and the Haiku Project. See the Privacy Policy for information on how to allow your name to be displayed here.

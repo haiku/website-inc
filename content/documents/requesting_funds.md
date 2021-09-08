@@ -1,4 +1,8 @@
-# How to Request Funding
+---
+title: Requesting funds
+layout: single
+---
+
 Haiku, Inc. is always interested in receiving requests for funds. It is our responsibility to express ways in which additional financial resources can further the Haiku Project.
 
 All requests and proposals may be emailed to the [haiku-inc public mailing list](https://www.freelists.org/list/haiku-inc "haiku-inc public mailing list") or privately to contact (a) haiku-inc ( . ) org

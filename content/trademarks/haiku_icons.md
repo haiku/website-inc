@@ -1,4 +1,8 @@
-# Haiku®'s Icons
+---
+title: "Haiku®'s Icons"
+layout: single
+---
+
 The icons used in Haiku® are a special type of vector image called Haiku Vector Icon Format and called HVIF for short. This format was created by Stephan Aßmus (stippi), specifically designed to store icons.
 
 ## License

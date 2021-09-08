@@ -1,4 +1,8 @@
-# Development Contributions financed by Haiku, Inc.
+---
+title: Development Contributions financed by Haiku, Inc.
+layout: single
+---
+
 The Haiku Project rests on the shoulders of volunteer individuals. They spend their free time developing, bug hunting and generally advancing Haiku®. Being able to financially support a contributor, to allow them to fully concentrate on development can do wonders for progressing Haiku forward.
 
 Supporting contributors through contracts allow them to dedicate large blocks of time, which normally would not be available for Haiku development. These contracts are not for purchasing an hour here, three hours there. Nor are the contracts for working on something that would not help reach R1. These contracts are specifically for putting Haiku on the fast track to R1, whether it be the next development release or the next stable release.

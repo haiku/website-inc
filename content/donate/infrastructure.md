@@ -1,4 +1,8 @@
-# Infrastructure provided by Haiku, Inc.
+---
+title: Infrastructure provided by Haiku, Inc.
+layout: single
+---
+
 As an open-source project, Haiku®'s visibility and presence on the internet is vital to its existence, growth, and reputation. Ensuring high quality services to the Haiku Project is the most essential item for receiving funds.
 
 Some weeks before the release of Haiku R1/Alpha 1, a commitment was made to overhaul the infrastructure that provides key services to the Project. Leading up to this, there had been numerous service issues with the previous shared hosting plan and free source code repository. These issues ranged from unexplainable slowdowns to even occasional downtime. In a few words, the needs of the Project were outgrowing its shoes and an upgrade was desired.

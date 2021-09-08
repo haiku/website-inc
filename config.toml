@@ -40,6 +40,11 @@ subfooter = " "
 	weight = 30
 	parent = "trademarks"
 [[menu.sectionmenu]]
+	name = "Haiku's icons"
+	url = "trademarks/haiku_icons"
+	weight = 40
+	parent = "trademarks"
+[[menu.sectionmenu]]
 	name = "Documents"
 	url = "documents/"
 	identifier = "documents"
@@ -55,8 +60,39 @@ subfooter = " "
 	parent = "documents"
 	weight = 20
 [[menu.sectionmenu]]
+	name = "Requesting funds"
+	url = "documents/requesting_funds"
+	parent = "documents"
+	weight = 30
+[[menu.sectionmenu]]
 	name = "Donate"
 	url = "donate/"
+	weight = 50
+	identifier = "donate"
+[[menu.sectionmenu]]
+	name = "Funded development"
+	url = "donate/funded_development"
+	parent = "donate"
+	weight = 10
+[[menu.sectionmenu]]
+	name = "Infrastructure"
+	url = "donate/infrastructure"
+	parent = "donate"
+	weight = 20
+[[menu.sectionmenu]]
+	name = "Hardware"
+	url = "donate/hardware"
+	parent = "donate"
+	weight = 30
+[[menu.sectionmenu]]
+	name = "Public Sponsors"
+	url = "donate/public_sponsors"
+	parent = "donate"
+	weight = 40
+[[menu.sectionmenu]]
+	name = "Privacy Policy"
+	url = "donate/privacy_policy"
+	parent = "donate"
 	weight = 50
 [[menu.sectionmenu]]
 	name = "Contact"
