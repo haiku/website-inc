@@ -55,10 +55,13 @@ function formatDay(day) {
 	}
 }
 
-var yearlyGoal = 10000;
+var yearlyGoal = 20000;
 var donationBarHeight = 128;
 
 function updateDonationMeter() {
+	if (document.getElementById("fundraising-goal-text") === null)
+		return;
+
 	getURL("https://cdn.haiku-os.org/haiku-inc/donations.json", function(data) {
 		try {
 			var json = JSON.parse(data);
