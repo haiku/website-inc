@@ -3,7 +3,7 @@
 	replace the entire head, or include additional elements using:
 		partials/head-custom.html (meta, link, styles, etc)
 		partials/js-head.html (any Javascript that must be in head)
-	
+
 	Always consult _default/baseof.html to see what you may be replacing or overriding.
 	Note: Title is defined in _defaults/baseof.html and layouts/*.html
 -->
@@ -14,10 +14,10 @@
 	{{ if ne .Kind "404" }}<link rel="canonical" href="{{ .Permalink }}">
 	{{- with $.Site.Params.description }}<meta name="description" content="{{.}}">{{ end }}
 	{{- range .AlternativeOutputFormats }} <!-- RSS, Atom feeds -->
-	<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" 
+	<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}"
 	      href="{{ .Permalink | safeURL }}" title="{{ $.Site.Title }}">{{ end }}
 	{{- end }}
 	<link rel="preload" href="{{ $.Site.Params.cssPath | default "css/smorg.css" | absURL }}" as="style">
 	<link rel="stylesheet" href="{{ $.Site.Params.cssPath | default "css/smorg.css" | absURL }}">
-	{{ .Hugo.Generator -}}
+	{{ hugo.Generator -}}
 	{{- partial "favicon.html" . -}}
