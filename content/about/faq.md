@@ -14,25 +14,13 @@ Below are some common questions. Feel free to [contact us](/contact), preferably
 
 The Haiku Project provides downloads for current official releases of Haiku® on their [Get Haiku!](https://www.haiku-os.org/get-haiku) page.
 
-### Where is Haiku swag to buy?
+### Where can I buy Haiku merchandise?
 
-Currently, our offerings are limited to CafePress ([US](https://www.cafepress.com/haiku_os), [UK](https://www.cafepress.co.uk/haiku_os))
+[**Haiku merchandise can be bought here.**](https://www.freewear.org/Haiku) We partner with Freewear to provide merchandise to purchase. A fraction of the proceeds from all merchandise sold is donated to Haiku, Inc.
 
-### How do I get my logo on the donors page?
+### Is it possible to have more paid development contractors?
 
-Listed below are several break points for large-sum donations. Feel free to [contact us](/contact), prior to making such a donation.
-
-* $1,000 - $4,999
-  * Your name & website URL will display on Haiku, Inc.'s "public sponsors" page.
-* $5,000 - $9,999
-  * Your name, website URL, and a logo of 250 x 150 pixels will display on Haiku, Inc.'s Public Sponsors page.
-* $10,000 and greater (also known as the "$10K Sponsor Club")
-  * For donations of $10,000 and greater, an additional 175x175 logo will be rotated daily on the front page of both www.haiku-inc.org and www.haiku-os.org for a full year. This logo will link to the URL provided.
-  * Each $10,000 equates into an additional entry in the rotation schedule, which updates the displayed logo daily. For example, if Company Foo donates $10,000 and Company Bar donates $20,000, the rotation schedule will be : (Company Foo, Company Bar, Company Bar)
-
-### Why aren't development contracts a high priority item in the yearly budget?
-
-At the moment, there are several limitations that relate to hiring contractors. This includes having a minimal payout rate and more importantly having someone within the project, who is able to work for an extended period of time with such a low payout. Due to this, we cannot guarantee that a certain amount of money will be used for development contracts in a given year. However, there is always the hope that it can happen and the intention to help make it happen.
+At the moment, there are several limitations that relate to hiring contractors. This includes having a minimal payout rate and more importantly having someone within the project, who is able to work for an extended period of time with such a low payout. Moreover, we will need to increase the level of donations to be able to sustainably continue our current contract with waddlesplash before considering hiring even more development contractors. [Donations are more than welcome!](https://www.haiku-inc.org/donate/)
 
 ### How was the goal for the piggy bank determined?
 
