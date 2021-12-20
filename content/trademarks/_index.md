@@ -7,8 +7,8 @@ layout: single
 
 ---- 
 
-Haiku, Inc. owns the following (registered) trademarks: Haiku&reg;,
-the HAIKU logo&reg;, the HAIKU Background Leaf&trade;, and
+Haiku, Inc. owns the following (registered) trademarks: Haiku&trade; (3993198),
+the HAIKU logo&reg; (3937621,5654531), the HAIKU Background Leaf&trade;, and
 the HAIKU Leaf&trade;. As an open source project, the name and brand
 that is associated with the Project is vital to the Project's reputation
 and the sense of familiarity that end-users expect from the Software.
