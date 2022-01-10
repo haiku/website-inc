@@ -38,6 +38,7 @@ Haiku, Inc. makes it a priority to publish as much information publically as pos
 * [2018 Financial Report](/docs/haiku_inc-financial-report-2018.pdf)
 * [2019 Financial Report](/docs/haiku_inc-financial-report-2019.pdf)
 * [2020 Financial Report](/docs/haiku_inc-financial-report-2020.pdf)
+* [2021 Financial Report](/docs/haiku_inc-financial-report-2021.pdf)
 
 **Budgets**
 
