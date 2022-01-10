@@ -5,7 +5,7 @@ draft: false
 layout: single
 ---
 
----- 
+----
 Haiku, Inc. (the "NPO") is a 501&#40;c&#41;&#40;3&#41; non-profit organization dedicated to supporting the [Haiku Project](http://www.haiku-os.org) (the "Project") and the development of [Haiku&reg;](http://www.haiku-os.org/get-haiku) (the "Software"). At a minimum, the Project is comprised of those individuals with commit access to the Software's source code repositories.
 
 Haiku was inspired by BeOS, which was developed by [Be Inc.](https://en.wikipedia.org/wiki/Be_Inc.) and currently is intellectual property of [ACCESS Co.](http://www.access-company.com/).
@@ -24,7 +24,7 @@ Haiku, Inc. currently has 4 titled positions filled by the pool of board members
 * **Treasurer:** Ryan Leavengood
 * **Secretary:** Alexander von Gluck IV
 
-The board of directors is currently made up of 6 board-elected individuals from the community:
+The board of directors is currently made up of 5 board-elected individuals from the community:
 
 * **Board of Directors:**
   * Axel Dörfler (axeld)

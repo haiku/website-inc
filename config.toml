@@ -2,7 +2,7 @@ baseURL = "https://haiku-inc.org/"
 languageCode = "en-us"
 title = "Haiku, Inc."
 theme = "hugo-smorg"
-copyright = "&copy; 2003-2021 Haiku, Inc. All Rights reserved."
+copyright = "&copy; 2003-2022 Haiku, Inc. All Rights reserved."
 
 [params]
 fullname = " "
