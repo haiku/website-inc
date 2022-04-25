@@ -62,7 +62,7 @@ function updateDonationMeter() {
 	if (document.getElementById("fundraising-goal-text") === null)
 		return;
 
-	getURL("https://cdn.haiku-os.org/haiku-inc/donations.json", function(data) {
+	getURL("https://s3.us-west-1.wasabisys.com/haiku-inc/donations.json", function(data) {
 		try {
 			var json = JSON.parse(data);
 			if (json) {
