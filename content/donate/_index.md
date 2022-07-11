@@ -12,13 +12,20 @@ With your support, we will be able to continue to provide quality dedicated host
 
 ## Online Donations
 
-Creating a monthly recurring donation subscription is a great way to help out Haiku, as any amount certainly helps and it frees you from needing to stop by the donations page each month. Please, [contact us](/contact) if you would like to set up a recurring donation with a different time interval (e.g. biannually).
+Creating a monthly recurring donation subscription is a great way to help out Haiku, as any amount certainly helps and it frees you from needing to stop by the donations page each month.
 
-{{< donate_form >}}
+Our preferred online donation subscription method is [GitHub Sponsors](https://github.com/sponsors/haiku), as any donations made through this method have no fees.
 
 ## Miscellaneous Online Donations
 
 We understand that no single donation processor will meet every person's wants or needs, so we are continuing to adopt multiple options.
+
+### PayPal
+
+PayPal was our primary donation source for many years, and it supports one-time and subscription payment options. For subscriptions please use [GitHub Sponsors](https://github.com/sponsors/haiku). If you would like to make a one-time donation through PayPal, here are some quick links in our preferred currencies:
+
+- [One-time Donation in USD](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=USD)
+- [One-time Donation in EUR](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=EUR)
 
 ### Liberapay
 
@@ -48,8 +55,8 @@ When you purchase through [Amazon](https://amazon.com), a small percentage of yo
 
 ### Goodsearch & Goodshop
 
-[Goodshop](https://goodshop.com) allows users to generate donations to Haiku,&nbsp;Inc. simply by shopping through their website. Each time a purchase is made Goodshop donates to Haiku, Inc.  
-[Goodsearch](https://goodshop.com/search) is a search engine run by Goodshop and powered by Yahoo, and allows users to generate donations to Haiku, Inc. by searching using their search engine. 
+[Goodshop](https://goodshop.com) allows users to generate donations to Haiku,&nbsp;Inc. simply by shopping through their website. Each time a purchase is made Goodshop donates to Haiku, Inc.
+[Goodsearch](https://goodshop.com/search) is a search engine run by Goodshop and powered by Yahoo, and allows users to generate donations to Haiku, Inc. by searching using their search engine.
 To start using these two programs users must have an account with Goodshop and [must add Haiku as a cause.](https://www.goodshop.com/nonprofit/haiku)
 
 <a href="https://www.goodsearch.com/?charityid=949749" target="_top"><img
