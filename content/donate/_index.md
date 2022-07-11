@@ -6,26 +6,26 @@ layout: single
 ---
 
 ----
-The [Haiku Project](https://haiku-os.org) is supported by Haiku,&nbsp;Inc., a not-for-profit corporation classified by the IRS under section 501&#40;c&#41;&#40;3&#41;. Donations made within the United States should be tax-deductible. Haiku,&nbsp;Inc. accepts direct donations electronically via Google Pay and PayPal. Check or money order is also accepted and can be mailed via the postal system. Please contact a tax professional for the details of deducting such a donation. Donations over $100 (USD) may receive a mailed receipt upon request.
+The [Haiku Project](https://haiku-os.org) is supported by Haiku,&nbsp;Inc., a not-for-profit corporation classified by the IRS under section 501&#40;c&#41;&#40;3&#41;. Donations made within the United States should be tax-deductible. For online donations, see below; check or money order is also accepted and can be mailed via the postal system. Please contact a tax professional for the details of deducting such a donation. Donations over $100 (USD) may receive a mailed receipt upon request.
 
 With your support, we will be able to continue to provide quality dedicated hosting, promote Haiku at various conferences, and most importantly purchase additional time for Haiku development. Your donations will help to bring Haiku closer to R1: the first production quality release.
 
 ## Online Donations
 
+Haiku, Inc. accepts donations online through a variety of methods.
+
+### GitHub Sponsors
+
+Our <i>preferred</i> online donation method is <b>[GitHub Sponsors](https://github.com/sponsors/haiku)</b>, as any donations made through this method have no fees. You can both make a one-time donation or set up a recurring subscription with this method.
+
 Creating a monthly recurring donation subscription is a great way to help out Haiku, as any amount certainly helps and it frees you from needing to stop by the donations page each month.
-
-Our preferred online donation subscription method is [GitHub Sponsors](https://github.com/sponsors/haiku), as any donations made through this method have no fees.
-
-## Miscellaneous Online Donations
-
-We understand that no single donation processor will meet every person's wants or needs, so we are continuing to adopt multiple options.
 
 ### PayPal
 
-PayPal was our primary donation source for many years, and it supports one-time and subscription payment options. For subscriptions please use [GitHub Sponsors](https://github.com/sponsors/haiku). If you would like to make a one-time donation through PayPal, here are some quick links in our preferred currencies:
+PayPal was our primary donation source for many years, and it supports one-time and subscription payment options; but it does have higher fees for us than GitHub Sponsors. If you would like to make a donation through PayPal, here are some quick links in our preferred currencies:
 
-- [One-time Donation in USD](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=USD)
-- [One-time Donation in EUR](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=EUR)
+- [Donate in USD](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=USD)
+- [Donate in EUR](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=EUR)
 
 ### Liberapay
 
