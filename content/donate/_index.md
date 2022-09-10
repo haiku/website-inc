@@ -20,22 +20,24 @@ Our <i>preferred</i> online donation method is <b>[GitHub Sponsors](https://gith
 
 Creating a monthly recurring donation subscription is a great way to help out Haiku, as any amount certainly helps and it frees you from needing to stop by the donations page each month.
 
-### PayPal
-
-PayPal was our primary donation source for many years, and it supports one-time and subscription payment options; but it does have higher fees for us than GitHub Sponsors. If you would like to make a donation through PayPal, here are some quick links in our preferred currencies:
-
-- [Donate in USD](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=USD)
-- [Donate in EUR](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=EUR)
-
 ### Liberapay
 
-[Liberapay](https://liberapay.com/about) allows you to donate money to Haiku,&nbsp;Inc. recurrently and anonymously. It is governed by a non-profit organization registered in France.
+[Liberapay](https://liberapay.com/about) allows you to donate money to Haiku,&nbsp;Inc. recurrently, and anonymously. It supports making donations via SEPA bank transfers.
 
 <a href="https://liberapay.com/haiku.inc/donate" target="_blank">
     <img src="https://liberapay.com/assets/widgets/donate.svg"
         alt="Donate using Liberapay"
         title="Donate using Liberapay" border="0" />
 </a>
+
+Liberapay is governed by a non-profit organization registered in France.
+
+### PayPal
+
+PayPal was our primary donation source for many years, and it supports one-time and subscription payment options; but it does have higher fees for us than GitHub Sponsors. If you would like to make a donation through PayPal, here are some quick links in our preferred currencies:
+
+- [Donate in USD](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=USD)
+- [Donate in EUR](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=EUR)
 
 ### Flattr
 
