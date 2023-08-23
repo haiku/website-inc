@@ -30,7 +30,11 @@ Only for yourself and your friends (meaning people from whom you don't receive a
 
 ## Desktop wallpapers
 
-Must be within good taste and observe graphical modifications
+Must be within good taste.
+
+If using the official logo, observe 'graphical modifications' permissions as much as possible,
+to keep the logo recognizable. However, some artistic freedom can be accepted. For example,
+embedding the logo in your art may require shadows, reflections, or similar effects.
 
 ## Screenshots
 
