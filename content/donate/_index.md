@@ -87,8 +87,8 @@ Make check or money order payable in US dollar funds to: Haiku,&nbsp;Inc.. They 
 
     Haiku, Inc.
     c/o Ryan Leavengood
-    3917 Coelebs Ave
-    Boynton Beach, FL 33436
+    1381 Harvest View Xing
+    Loxahatchee, FL 33470
 
 ## Wire Transfers
 
