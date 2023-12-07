@@ -39,16 +39,6 @@ PayPal was our primary donation source for many years, and it supports one-time 
 - [Donate in USD](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=USD)
 - [Donate in EUR](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=EUR)
 
-### Flattr
-
-Another alternative for recurring donations is [Flattr](https://flattr.com/about), which allows you to set a monthly donation budget for multiple different organizations of your choice, including Haiku,&nbsp;Inc., and evenly distribute it.
-
-<a href="https://flattr.com/@haiku" target="_blank">
-    <img src="https://api.flattr.com/button/flattr-badge-large.png"
-		alt="Flattr this"
-		title="Flattr this" border="0" />
-</a>
-
 ### Amazon Smile
 
 When you purchase through [Amazon](https://amazon.com), a small percentage of your purchase can be donated to Haiku,&nbsp;Inc.
