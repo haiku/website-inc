@@ -39,21 +39,6 @@ PayPal was our primary donation source for many years, and it supports one-time 
 - [Donate in USD](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=USD)
 - [Donate in EUR](https://www.paypal.com/donate/?cmd=_donations&business=donations@haiku-os.org&item_name=A+single+donation+to+Haiku+Inc&currency_code=EUR)
 
-### Goodsearch & Goodshop
-
-[Goodshop](https://goodshop.com) allows users to generate donations to Haiku,&nbsp;Inc. simply by shopping through their website. Each time a purchase is made Goodshop donates to Haiku, Inc.
-[Goodsearch](https://goodshop.com/search) is a search engine run by Goodshop and powered by Yahoo, and allows users to generate donations to Haiku, Inc. by searching using their search engine.
-To start using these two programs users must have an account with Goodshop and [must add Haiku as a cause.](https://www.goodshop.com/nonprofit/haiku)
-
-<a href="https://www.goodsearch.com/?charityid=949749" target="_top"><img
-		src="/images/goodsearch_200x40.jpg"
-		width="200" height="40" alt="Goodsearch: You Search...We Give!" border="0"></a>
-
-### Give with Bing
-[Bing](https://bing.com), similar to Goodsearch, also has a donations program simply by searching with them called Give with Bing. Powered by the Microsoft Rewards program, it allows users to generate points which are then converted into donations which are donated to Haiku, Inc. at the end of each month. Users need a Microsoft account to be able to participate in this program and need to be signed up for Microsoft Rewards and Give with Bing. [More information about the program is available here.](https://www.microsoft.com/en-us/rewards/give-mode-overview)
-Please ensure you select the correct "Haiku" when selecting a non-profit to donate to:
-<img src="/images/give-with-bing-haiku.png">
-
 ### Cryptocurrency
 
 [Bitcoin](https://bitcoin.org) is digital currency, **our direct donation address is 1CvgfZCz9Scw3711zU1SN59Q8rvas3FgU1.**
