@@ -5,22 +5,66 @@ layout: single
 
 As an open-source project, Haiku®'s visibility and presence on the internet is vital to its existence, growth, and reputation. Ensuring high quality services to the Haiku Project is the most essential item for receiving funds.
 
-Some weeks before the release of Haiku R1/Alpha 1, a commitment was made to overhaul the infrastructure that provides key services to the Project. Leading up to this, there had been numerous service issues with the previous shared hosting plan and free source code repository. These issues ranged from unexplainable slowdowns to even occasional downtime. In a few words, the needs of the Project were outgrowing its shoes and an upgrade was desired.
+> Current as of March 1st, 2025.
 
 ## Hosting
-### Dedicated Server
-Through discussions on the [haiku-development mailing list](https://www.freelists.org/list/haiku-development "haiku-development mailing list"), it was decided to acquire an [EX4 dedicated server](https://web.archive.org/web/20161128085411/http://www.hetzner.de/en/hosting/produkte_rootserver/ex4/ "EX4 dedicated server") with Hetzner. This increased the hosting costs from roughly $300/year to $900/year. Later it was decided to move the hosting to a web hosting provider, so the dedicated server is no longer in use.
 
-For historical reference, these were the specifications of the dedicated server:
-- Intel® Core™ i7-2600 Quadcore incl. Hyper-Threading Technology
-- RAM 16 GB DDR3 RAM
-- Hard discs 2 x 3 GB SATA 6Gb/s HDD (Software-RAID 1)
-- NIC 1 GBit OnBoard (connected at 100 MBit)
-- Backup Space 100 GB
-- Traffic Unlimited (>10,000 GB/month will reduce bandwidth to 10 MBit/s)
+### Kubernetes Cluster
+
+**Cost:** $219.50 USD / Month
+
+We maintain a Kubernetes cluster to run mission critical frontend services.  Three nodes run our
+public facing services.
+
+* discuss.haiku-os.org  ~3.7GiB Memory
+* review.haiku-os.org   ~2.3GiB Memory
+* Postgresql Database   ~2.5GiB Memory
+* dev.haiku-os.org      ~0.7GiB - 2.0GiB Memory
+* Misc services
+  * hpkg.haiku-os.org
+  * i18n.haiku-os.org
+  * ci.haiku-os.org (Concourse)
+  * build.haiku-os.org (Haikuporter Buildmaster)
+  * rsync.haiku-os.org
+  * download.haiku-os.org
+  * Irc bots
+  * Git sync services to github / codeberg
+
+### Block Storage
+
+**Cost:** $25.00 USD / Month
+
+250GiB of block storage at Digital Ocean to store the Haikuports repository.
+
+### Virtual Machines
+
+**Cost:** $7.00 USD / Month
+
+We maintain a dedicated mail server for all outbound and inbound email.
+
+### Object Storage
+
+Haiku is working on expanding our usage of object storage as it represents cheap, portable storage
+which is API focused and can be migrated to alternative providers without lock-in.
+
+**Cost:** $7.00 - 14.00 USD / Month
+Wasabi s3 storage hosting package repositories as well as nightly image downloads.
+
+**Cost:** $7.00 - 14.00 USD / Month
+Backblaze B2 storage hosting haiku package repositories (experimental)
+
+### Physical Machines
+
+**Cost:** Occasional expenditure as-needed to maintain
+
+* Several VM based builders for Haikuports generously donated by mmlr.
+* Large physical Dell Optiplex desktop building Haiku (Concourse worker) donated by kallisti5.
+* Intel Nuc building Haiku (backup / standby Concourse worker) donated by Ryan Leavengood.
+* SiFive Unmatched RISC-V 64 desktop owned by kallisti5 donated by Haiku, Inc.
+* SiFive Unmatched RISC-V 64 desktop owned by x512 donated by Haiku, Inc.
 
 ### Web Hosting Services
-Currently, [Netlify's paid hosting services](https://www.netlify.com/) are used. Haiku makes use of the ["Pro" plan](https://www.netlify.com/pricing/), but we have submitted an [open-source application](https://www.netlify.com/legal/open-source-policy) as we are eligible for complimentary hosting from Netlify. 
+Currently, [Netlify's paid hosting services](https://www.netlify.com/) are used. We get an open-source not for profit organization via our display of the Netlify logo at the bottom of our site.
 
 ## Domain names
 These are the domains, which are paid by Haiku, Inc.
@@ -30,20 +74,6 @@ These are the domains, which are paid by Haiku, Inc.
 - haiku-os.net
 - haiku-project.com
 - haiku-inc.org
-- haiku-files.org
-- haikuports.org
-
-## Project sites
-These are the websites that are actively maintained by the Project.
-
-- [www.haiku-os.org](https://www.haiku-os.org "www.haiku-os.org"): Main Project Website, powered by Hugo
-- [dev.haiku-os.org](https://dev.haiku-os.org "dev.haiku-os.org"): Development tracker, powered by Trac
-- [https://i18n.haiku-os.org/](https://i18n.haiku-os.org/ "https://i18n.haiku-os.org/"): Haiku translation site, powered by Pootle and the Haiku User Guide Translator
-- [https://build.haiku-os.org/](https://build.haiku-os.org/ "https://build.haiku-os.org/"): Haiku build status site, powered by Concourse (for Haiku builds) and Buildmaster (for HaikuPorts)
-- [https://review.haiku-os.org/](https://review.haiku-os.org "https://review.haiku-os.org/"): Haiku code review site, powered by Gerrit
-- **Source code repositories:**
-	- [cgit.haiku-os.org](https://cgit.haiku-os.org "cgit.haiku-os.org"): Main source code repository. A mirror exists at [GitHub](https://github.com/haiku/ "GitHub") and there used to be one at Gitorious (the service has been shutdown), though the mirror is considered read-only and doesn't accept pull or merge requests.
-	- [api.haiku-os.org](https://api.haiku-os.org "api.haiku-os.org"): (Work-in-Progress) The Haiku Book
 
 ### Retired sites
 These are sites were formerly maintained by the Project, but have now been taken offline and retired:
